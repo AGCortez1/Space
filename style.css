@@ -5,3 +5,7 @@
 body {
     background-color: black;
 }
+
+h1, p, h3 {
+    color: white;
+}

@@ -17,7 +17,7 @@ return usersName;
 
 function addTwoNumbers(number1, number2){
 let sum = number1 + number2;
-// return sum;
+return sum;
 }
 
 
